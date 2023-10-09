@@ -7,7 +7,7 @@
   - [Table of contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Overview](#overview)
-    - [Screenshot](#screenshot)
+    <!--- [Screenshot](#screenshot)-->
     - [Links](#links)
     - [Website Teach You](#website-teach-you)
     - [Build With](#build-with)
@@ -29,10 +29,11 @@ Let's get started!
 
 ![img](/asset/design/vibdesktop.JPG)
 
-### Screenshot
+<!-- ### Screenshot
 
 - Small screen: ![Mobile](/asset/design/vibemobile.JPG)
 - large screen: ![Desk Top](/asset/design/vibdesktop.JPG)
+-->
 
 ### Links
 
